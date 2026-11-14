@@ -1,0 +1,30 @@
+[project]
+name = "ticket-router"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Nazli Ander" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=2.8.0",
+    "genai-prices>=0.2.3",
+    "langfuse>=5.2.0",
+    "logfire>=5.6.0",
+    "pydantic>=2.14.3",
+    "pydantic-settings>=2.16.3",
+    "scikit-learn>=1.9.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[project.scripts]
+route-tickets = "ticket_router.cli:main"

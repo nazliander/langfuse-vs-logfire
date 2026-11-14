@@ -1,0 +1,11 @@
+services:
+  langfuse-web:
+    ports: !override
+      - 127.0.0.1:3000:3000
+  langfuse-ai-gateway:
+    ports: !override
+      - 127.0.0.1:3031:3031
+  minio:
+    ports: !override
+      - 127.0.0.1:9090:9000
+      - 127.0.0.1:9091:9001

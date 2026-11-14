@@ -1,0 +1,81 @@
+text,category
+I was charged twice for my subscription this month,billing
+Please refund the last invoice it was a mistake,billing
+My credit card was declined but money left my account,billing
+Why did my monthly price go up without notice,billing
+I need a VAT invoice for my company,billing
+Cancel my plan and stop charging me,billing
+The coupon code did not reduce the total at checkout,billing
+I see an unknown payment from your company on my statement,billing
+Can I switch from monthly to yearly billing,billing
+You billed me after I cancelled,billing
+The receipt shows the wrong amount,billing
+How do I update the card on file for payments,billing
+Refund still not received after two weeks,billing
+I was overcharged for shipping fees on my bill,billing
+Payment failed but the order shows as paid,billing
+Do you offer a discount for students on the price,billing
+The app crashes when I open the settings page,bug
+Export to PDF produces a blank file,bug
+The search button does nothing on Android,bug
+I get error 500 when I save my profile,bug
+Dark mode makes the text invisible on the dashboard,bug
+The page freezes after I upload a photo,bug
+Notifications arrive twice for every message,bug
+The date picker shows the wrong year,bug
+The sync stops working after the latest update,bug
+Login screen loops back to itself after I press submit,bug
+Images do not load on the product page,bug
+The app drains my battery since version 4.2,bug
+The calendar view shows events on the wrong day,bug
+CSV import fails with an unexpected error,bug
+Clicking save deletes my draft,bug
+The chart is empty although I have data,bug
+I forgot my password and the reset email never arrives,account
+How do I change the email address on my account,account
+Please delete my account and all my data,account
+I want to enable two factor authentication,account
+My account is locked after too many attempts,account
+Can I merge my two accounts into one,account
+How do I change my username,account
+Someone else logged into my account,account
+I cannot verify my phone number,account
+Add a second user to my team account,account
+How do I download a copy of my personal data,account
+The verification code expired before I could use it,account
+I want to transfer ownership of the workspace,account
+Change the language of my profile,account
+I lost access to my authenticator app,account
+Remove my old phone number from the profile,account
+Where is my package it was due yesterday,shipping
+The tracking number does not work,shipping
+My order arrived damaged,shipping
+Can you ship to Norway,shipping
+I received the wrong item in the box,shipping
+How long does express delivery take,shipping
+The courier left the parcel at the wrong address,shipping
+I want to change the delivery address of my order,shipping
+My order is stuck in customs,shipping
+Part of my order is missing from the parcel,shipping
+Can I pick up the order at a store instead,shipping
+The package says delivered but I have nothing,shipping
+Do you deliver on weekends,shipping
+How do I return an item by post,shipping
+The box was opened when it arrived,shipping
+Shipping takes too long to my country,shipping
+Please add a dark mode to the mobile app,feature_request
+It would be great to export reports to Excel,feature_request
+Can you add a calendar integration with Google,feature_request
+I would like keyboard shortcuts for common actions,feature_request
+Please support more languages like Turkish,feature_request
+Add an option to schedule reports by email,feature_request
+I wish I could tag items with colors,feature_request
+Could you build an API for developers,feature_request
+Please allow bulk edit of many items at once,feature_request
+A widget for the home screen would be nice,feature_request
+Support single sign on for our company,feature_request
+Let me archive old projects instead of deleting them,feature_request
+Add an undo button please,feature_request
+I want to customize the dashboard layout,feature_request
+Offer a family plan with shared lists,feature_request
+Please add offline mode for travel,feature_request
